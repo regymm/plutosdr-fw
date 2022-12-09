@@ -35,4 +35,4 @@
 *.dSYM/
 *.su
 
-build/
+/build/
